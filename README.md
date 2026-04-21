@@ -52,7 +52,7 @@ User-friendly interface to upload waste images.
 
 ### 🤖 Prediction Result
 The model predicts the waste category with probabilities.
-![Result](screenshots/result.png)
+![Result](screenshots/output.png)
 
 ## 🧪 Test Example
 
