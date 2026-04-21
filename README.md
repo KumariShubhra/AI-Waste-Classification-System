@@ -45,7 +45,21 @@ pip install -r requirements.txt
 python app.py
 
 ## 📸 Output
-(Add your screenshots here)
+
+### 🏠 Home Interface
+User-friendly interface to upload waste images.
+![Home](screenshots/home_page.png)
+
+### 🤖 Prediction Result
+The model predicts the waste category with probabilities.
+![Result](screenshots/result.png)
+
+## 🧪 Test Example
+
+### Input Image
+![Test Input](screenshots/test_image.jpg)
+![Test Input](screenshots/test_image2.jpg)
+
 
 ## 🔮 Future Scope
 - Real-time camera detection  
