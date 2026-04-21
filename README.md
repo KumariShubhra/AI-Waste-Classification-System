@@ -3,6 +3,24 @@
 ## 📌 Overview
 This project is a Flask-based web application that classifies waste into categories like metal, organic, paper, plastic, and others using a trained deep learning model.
 
+## 📂 Dataset
+
+This project uses an image dataset for waste classification, containing categories such as:
+- Metal
+- Organic
+- Paper
+- Plastic
+- Other
+
+A small sample of the dataset is included in this repository for demonstration purposes.
+
+The complete dataset consists of multiple images for training and testing the model. Due to size limitations, the full dataset is not included in this repository.
+
+However, similar waste classification datasets are easily available on Kaggle. You can search for:
+"Garbage Classification Dataset" or "Waste Classification Dataset"
+
+Download the dataset and place it inside the `Dataset/` folder before running the project.
+
 ## 🚀 Features
 - Upload waste image
 - Predict waste category
